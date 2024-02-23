@@ -1,4 +1,4 @@
-import dummy_transformations as dt
+import goals_from_team_statistic as dt
 
 
 def test_add_offset():

@@ -13,8 +13,8 @@ all: check coverage mutants
 		setup \
 		tests
 
-module = dummy_transformations
-codecov_token = 6c56bccb-1758-4ed9-8161-97c845591c26
+module = goals_from_team_statistic
+codecov_token = cd66d19b-4301-4c7e-9ce1-cd4b40a6ae37
 
 define lint
 	pylint \
