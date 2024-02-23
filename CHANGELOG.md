@@ -17,12 +17,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2024-02-22
 
-### Fixed
+### Added
 
-- Move consigned data to `tests/data`.
+### Fixed
 
 ### Changed
 
-- Use API instead of consigned data.
+### Removed
 
-[0.1.0]: https://github.com/niesfutbol/goals_from_team_statistic/compare/v0.1.0...v0.1.1
+## [iteration_zero] - 2024-02-22
+
+### Added
+
+- Add walking skeleton
+
+### Changed
+
+- Change template name
+
+[0.1.0]: https://github.com/niesfutbol/goals_from_team_statistic/compare/iteration_zero...v0.1.0
